@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# for vim 
+*.swp
+
+# also the data and bin directory
+bin/
+data/
